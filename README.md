@@ -1,3 +1,3 @@
 # techxaws
 
-*** Distributed Systems Basics - Load Balancing on AWS ***
+***Distributed Systems Basics - Load Balancing on AWS***
